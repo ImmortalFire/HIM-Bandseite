@@ -1,3 +1,6 @@
+body{
+  background: url("Bilder/BG2.jpg") no-repeat center fixed;
+}
 .container{
   width: 100%;
 
